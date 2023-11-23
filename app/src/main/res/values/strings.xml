@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">toasty</string>
+    <string name="header_msg_dialog">TOASTY</string>
+    <string name="btn_txt_close">Close</string>
+</resources>
