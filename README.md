@@ -18,6 +18,6 @@ dependencyResolutionManagement {
 
 ```gradle
 dependencies {
-    implementation 'com.github.DilanMadhusanka:toasty-own-sdk:Tag'
+    implementation 'com.github.DilanMadhusanka:toasty-own-sdk:1.0'
 }
 ```
